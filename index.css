@@ -1,0 +1,34 @@
+h1 {
+	text-align: center;
+	margin: auto;
+	padding-bottom: 30px;
+	border-bottom: 5px solid #aaaaaa;
+	width: 40%;
+}
+
+#home {
+	background-color: #bbbbbb;
+}
+
+#portfolio {
+	margin-top: -39px;
+}
+
+#contact {
+	background-color: #d5dae5;
+	margin-top: -39px;
+}
+
+body {
+	background-color: #5d5e60;
+}
+
+#bottom {
+	background-color: #bbbbbb;
+	margin-top: -43px;
+	padding-top: 20px;
+}
+
+#nav {
+	background-color: #c77bd1;
+}
